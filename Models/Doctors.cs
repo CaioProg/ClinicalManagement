@@ -8,15 +8,9 @@
 
         public string Phone { get; set; }
 
-        public string Document { get; set; }
+        public string Specialty { get; set; }
 
-        public int Age { get; set; }
-
-        public string Illnesses { get; set; }
-
-        public string Observations { get; set; }
-
-        public bool HealthInsurance { get; set; }
+        public string Photo { get; set; }
 
     }
 }
