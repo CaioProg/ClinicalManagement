@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hykfjoxb5oMfsAVa8Kqlm0GPPanSFkgtbcqZCW3n2cM=",
+  "Source": "ClinicalManagement",
+  "BasePath": "_content/ClinicalManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
